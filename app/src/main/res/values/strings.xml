@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SweatLock</string>
+    <string name="a11y_description">SweatLock only checks which app is in front, so it can lock the apps you picked until you finish your workout. It never reads your screen content.</string>
+</resources>
